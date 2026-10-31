@@ -1,0 +1,7 @@
+torch>=2.4
+torchvision>=0.19
+pytorch-ignite>=0.5
+scipy
+numpy
+pillow
+matplotlib
